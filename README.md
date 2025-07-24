@@ -1,2 +1,2 @@
 # webProject-portfolio
-webProject
+simple webProject for portfolio
